@@ -1,0 +1,17 @@
+{
+    "usuarios": [
+        {
+            "id": 1,
+            "nombre": "Naiomi",
+            "correo": "naiomi@example.com"
+        }
+    ],
+    "productos": [
+        {
+            "id": 1,
+            "nombre": "Laptop",
+            "precio": 1200.00,
+            "disponible": true
+        }
+    ]
+}
